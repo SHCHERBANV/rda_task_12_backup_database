@@ -1,8 +1,8 @@
 #! /bin/bash
 
 # Reading environment variables
-DB_USER="vr"
-DB_PASSWORD="8262"
+DB_USER="${DB_USER}"
+DB_PASSWORD="${DB_PASSWORD}"
 
 # Backup path set
 BACKUP_PATH="C:\\Users\\shche\\mate\\mysql.backup"
